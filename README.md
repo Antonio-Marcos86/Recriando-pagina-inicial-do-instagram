@@ -1,12 +1,12 @@
 # Projeto recriando pagina inicial do instagram.
 
-projeto é um clone da página inicial do instagram, usando HTML, CSS e JavaScript.
+Projeto é um clone da página inicial do instagram, usando HTML, CSS e JavaScript.Como a imadem abaixo:
 
 
 
 <!-- AQUI VOCÊ PODE COLOCAR O LOGO, UMA IMAGEM QUE REPRESENTE O PROJETO OU O QUE MAIS QUISER -->
 
-![image](https://user-images.githubusercontent.com/6373438/104758414-2cbae700-573d-11eb-8cc4-0a1ad34c1216.png)
+![image](https://user-images.githubusercontent.com/71250901/105840344-a9f22180-5fb1-11eb-8240-68b1f27bd08c.png)
 
 
 
