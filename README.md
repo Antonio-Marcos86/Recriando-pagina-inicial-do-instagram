@@ -1,4 +1,4 @@
-# Projeto recriando pagina inicial do instagram.
+# Projeto recriando página inicial do instagram.
 
 Projeto é um clone da página inicial do instagram, usando HTML, CSS e JavaScript.Como a imadem abaixo:
 
