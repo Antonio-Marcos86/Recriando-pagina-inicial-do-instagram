@@ -10,7 +10,7 @@ Projeto é um clone da página inicial do instagram, usando HTML, CSS e JavaScri
 
 
 
-![Version](https://img.shields.io/badge/Version-1.0.0-F21B3F) ![Build](https://img.shields.io/badge/Build-Passing-29BF12) ![Projeto](https://img.shields.io/badge/Projeto-NomeProjeto-08BDBD) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-3A5683) ![Languange](https://img.shields.io/badge/Language-JavaScript-F7DF1E) ![Languange](https://img.shields.io/badge/Language-NodeJS-339933)
+![Version](https://img.shields.io/badge/Version-1.1.0-F21B3F) ![Build](https://img.shields.io/badge/Build-Passing-29BF12) ![Projeto](https://img.shields.io/badge/Projeto-NomeProjeto-08BDBD) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-3A5683) ![Languange](https://img.shields.io/badge/Language-JavaScript-F7DF1E) ![Languange](https://img.shields.io/badge/Language-NodeJS-339933)
 
 
 
